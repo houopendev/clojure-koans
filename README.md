@@ -1,3 +1,17 @@
+# Houston Open Development User Group
+This repository is for use by those planning to attend the 10/2011 Houston 
+Open Development User Group meeting.  It contains the latest from the 
+functional-koans/clojure-koans repository, along with the lib/ folder contents
+from that repository's downloads for the latest clojure-koans.
+
+For anyone attending the HouOpenDev meeting, please clone or download this repo, and
+then follow the instructions below to ensure a successful setup.  You can
+basically skip to the "Running the Koans" section as you already have the needed
+JAR files, but you might need to do some setup if you're on Windows.
+
+The reason for doing this is to be able to point people to this repository for simplicity.
+All original licensing remain in tact.
+
 # Clojure Koans
 
 The Clojure Koans are a fun and easy way to get started with Clojure - no
